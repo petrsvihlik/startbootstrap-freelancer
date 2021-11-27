@@ -16,10 +16,11 @@ This web template is a [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-app
 
 ## Download and Installation
 
-- Install the latest preview of the [.NET Core SDK](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio)
-  - (and [VS 2019 Preview](https://visualstudio.microsoft.com/vs/preview/) with [Blazor extension](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor))
+- Install [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - `dotnet run`
 - [`http://localhost:56625/`](http://localhost:56625/)
+
+Optionally, you can use VS Code or VS 2022 to run the app.
 
 ## Usage
 See https://github.com/BlackrockDigital/startbootstrap-freelancer#usage
